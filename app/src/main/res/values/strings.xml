@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tareaOnline3</string>
+    <string name="enter_euros">Introduce cantidad en euros</string>
+    <string name="convert_to_dollars">Convertir a dólares</string>
+    <string name="loading_rate">Cargando tipo de cambio...</string>
+    <string name="currency_image_desc">Imagen de divisas</string>
+    <string name="error_loading">Error al cargar el tipo de cambio</string>
+    <string name="current_rate">Tipo de cambio actual: 1 EUR = %.4f USD</string>
+    <string name="enter_amount">Introduce cantidad</string>
+    <string name="result">Resultado</string>
+    <string name="eur_to_usd">EUR → USD</string>
+    <string name="usd_to_eur">USD → EUR</string>
+    <string name="convert">Convertir</string>
+
+</resources>
